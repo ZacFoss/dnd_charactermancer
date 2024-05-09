@@ -1,0 +1,74 @@
+[
+    {
+        "Features": [
+            {
+                "title": "Darkvision",
+                "description": [
+                    "Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                ],
+                "level": 1
+            },
+            {
+                "title": "Dwarven Resilience",
+                "description": [
+                    "You have advantage on saving throws against poison, and you have resistance against poison damage."
+                ],
+                "level": 1
+            },
+            {
+                "title": "Dwarven Combat Training",
+                "description": [
+                    "You have proficiency with the battleaxe, handaxe, light hammer, and warhammer."
+                ],
+                "level": 1
+            },
+            {
+                "title": "Tool Proficiency",
+                "description": [
+                    "You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools."
+                ],
+                "level": 1
+            },
+            {
+                "title": "Stonecunning",
+                "description": [
+                    "Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+                ],
+                "level": 1
+            },
+            {
+                "title": "Speed",
+                "description": [
+                    "Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor."
+                ],
+                "level": 1
+            },
+            {
+                "title": "Dwarven Toughness",
+                "description": [
+                    "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
+                ],
+                "level": 1,
+                "subrace": "Hill Dwarf"
+            },
+            {
+                "title": "Dwarven Armor Training",
+                "description": [
+                    "You have proficiency with light and medium armor."
+                ],
+                "level": 1,
+                "subrace": "Mountain Dwarf"
+            }
+        ],
+        "Age": "0 - 350",
+        "Size": {
+            "size": "Medium",
+            "weight": "120 - 300"
+        },
+        "Speed": 25,
+        "Subraces": [
+            "Hill Dwarf",
+            "Mountain Dwarf"
+        ]
+    }
+]
